@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lodgingzeus
+- 👀 I’m interested in Web-dev, Fullstack dev
+- 🌱 I’m currently learning React js
