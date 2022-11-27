@@ -9,6 +9,16 @@
 - :pencil2: [Twitter](https://twitter.com/deepak_gaming)
 - :office: [LinkedIn](https://www.linkedin.com/in/deepak-bhagat-a39277178/)
 
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+  <a herf="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40"/></a>
+    <a href="https://expressjs.com" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/js.png" width="40" height="40"/></a>
+</p>
+
 
 ## 📊 My Github Stats
 
