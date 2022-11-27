@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Deepak (aka: @lodgingzeus)
-- 👀 I’m interested in Web-dev, Fullstack dev
-- 🌱 I’m a MERN stack developer
+- 👀 I’m a Full Stack developer
+- 👀 My stack is MERN
+
 
 - 🌱 My interests:- gaming, programming :p
 
