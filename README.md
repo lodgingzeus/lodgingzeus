@@ -10,9 +10,18 @@
 - :office: [LinkedIn](https://www.linkedin.com/in/deepak-bhagat-a39277178/)
 
 
-![Lodgingzeus's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodgingzeus&show_icons=true&theme=radical)
+## 📊 My Github Stats
 
+ <br/>
+    <a href="https://github.com/lodgingzeus/github-readme-stats"><img alt="lodgingzeus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lodgingzeus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt=lodgingzeus's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodgingzeus&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+                                                                        
+<br/>
+<br/>                                                                    
 
-[![Lodgingzeus's github activity graph](https://activity-graph.herokuapp.com/graph?username=lodgingzeus&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/lodgingzeus/github-readme-activity-graph"><img alt="zeus Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lodgingzeus&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodgingzeus)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
