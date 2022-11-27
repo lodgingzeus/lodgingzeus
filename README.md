@@ -4,11 +4,11 @@
 
 
 - 🌱 My interests:- gaming, programming :p
-
+</br>
 - 📫 My socials: 
-- :movie_camera: [Instagram](https://www.instagram.com/bhagatd585)
-- :pencil2: [Twitter](https://twitter.com/deepak_gaming)
-- :office: [LinkedIn](https://www.linkedin.com/in/deepak-bhagat-a39277178/)
+- <a href = "https://www.instagram.com/bhagatd585" target="_blank"><img src="https://img.icons8.com/fluency/48/null/instagram-new.png"/></a>
+- <a href = "https://twitter.com/deepak_gaming" target="_blank"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
+- <a href = "https://www.linkedin.com/in/deepak-bhagat-a39277178/" target="_blank"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
 
 ## 🧰 Languages and Tools:
 <p align="center">
