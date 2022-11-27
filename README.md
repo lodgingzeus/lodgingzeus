@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Deepak (aka: @lodgingzeus)
-- 👀 I’m a Full Stack developer
-- 👀 My stack is MERN
+<h3 align="center">
+Hi there, I'm <a href="https://github.com/lodgingzeus" target="_blank" rel="noreferrer">Lodgingzeus</a> 👋
+</h3>
 
-
-- 🌱 My interests:- gaming, programming :p
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, and Gamer 🎮!
+</h2>
 </br>
 
 ### 🤝 Connect with me:
@@ -29,6 +30,7 @@
 - Express.js
 - C++
 - React & React Native 
+- DSA
 
 
 ## 📊 My Github Stats
