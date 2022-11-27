@@ -6,7 +6,7 @@
 - 
 - 📫 My socials: 
 - :movie_camera: [Instagram](https://www.instagram.com/bhagatd585)
-- :pencil2: [Twitter](https://twitter.com/abhinandan1311)
+- :pencil2: [Twitter](https://twitter.com/deepak_gaming)
 - :office: [LinkedIn](https://www.linkedin.com/in/deepak-bhagat-a39277178/)
 
 
