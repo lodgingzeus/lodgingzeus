@@ -5,10 +5,12 @@
 
 - 🌱 My interests:- gaming, programming :p
 </br>
-- 📫 My socials: 
-- <a href = "https://www.instagram.com/bhagatd585" target="_blank"><img src="https://img.icons8.com/fluency/48/null/instagram-new.png"/></a>
-- <a href = "https://twitter.com/deepak_gaming" target="_blank"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
-- <a href = "https://www.linkedin.com/in/deepak-bhagat-a39277178/" target="_blank"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
+
+### 🤝 Connect with me:
+<a href = "https://www.instagram.com/bhagatd585" target="_blank"><img src="https://img.icons8.com/fluency/48/null/instagram-new.png"/></a>
+<a href = "https://twitter.com/deepak_gaming" target="_blank"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
+<a href = "https://www.linkedin.com/in/deepak-bhagat-a39277178/" target="_blank"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
+</br>
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -20,6 +22,13 @@
 <a href="https://expressjs.com" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/js.png" width="40" height="40"/></a>
      <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/tailwind_css.png"/></a>
 </p>
+
+## 🌱 I'm currently learning
+
+- MongoDB
+- Express.js
+- C++
+- React & React Native 
 
 
 ## 📊 My Github Stats
