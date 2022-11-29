@@ -22,6 +22,7 @@ I'm a Full-Stack Web Developer 💻, and Gamer 🎮!
 <a herf="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank"><img src="https://img.icons8.com/material-outlined/24/000000/js.png" width="40" height="40"/></a>
      <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/null/tailwind_css.png"/></a>
+<a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://img.icons8.com/color/48/null/mongodb.png"/></a>
 </p>
 
 ## 🌱 I'm currently learning
